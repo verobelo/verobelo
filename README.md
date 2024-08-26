@@ -1,5 +1,8 @@
-- 👋 Hi, I’m Veronika
-- 🌍 Multilingual professional fluent in Russian, French, English, and Spanish, with a background in Translation. After years of honing my customer service skills in the tourism and hospitality industry, I discovered my passion for programming and decided to pivot my career towards web development.
-- 🚀 Currently diving deep into Front-End Development, with aspirations to become a Full-Stack Developer. I started my journey with The Odin Project, which provided me with a solid foundation in web development. I'm continuously expanding my knowledge and skills to bring creative and user-friendly applications to life.
-- 💡 My strong communication skills, cultural awareness, and problem-solving abilities from my customer service experience equip me well for collaborative and client-focused projects in tech. Excited to connect, learn, and grow in the world of development!
-- 📫 How to reach me: v.belozerova.dev@gmail.com
+👋 Hi, I’m Veronika!
+🌍 Multilingual (Russian, French, English, Spanish) with a background in Translation, now based in Spain and diving into web development. After years in tourism and hospitality, I found my passion for coding and haven't looked back.
+🚀 Started with The Odin Project, I’m continuing to build solid front-end skills with the goal of becoming a full-stack developer. I’m constantly expanding my knowledge to build intuitive and user-friendly applications.
+💡 My extensive customer service experience means I’m great with people, problem-solving, and delivering user-friendly solutions.
+
+✨ Always learning, always growing. Let’s connect!
+
+📫 How to reach me: v.belozerova.dev@gmail.com
