@@ -23,13 +23,13 @@
 ### My Best Repos
 
 <a href="https://github.com/verobelo/dentahub">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=verobelo&repo=dentahub&bg_color=181824&text_color=10b981&title_color=0891b2&hide_border=true" />
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=verobelo&repo=dentahub&bg_color=181824&text_color=ffffff&title_color=0891b2&hide_border=true" />
 </a>
 <a href="https://github.com/verobelo/portfolio-v2">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=verobelo&repo=portfolio-v2&bg_color=181824&text_color=10b981&title_color=0891b2&hide_border=true" />
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=verobelo&repo=portfolio-v2&bg_color=181824&text_color=ffffff&title_color=0891b2&hide_border=true" />
 </a>
 <a href="https://github.com/verobelo/cv-creator">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=verobelo&repo=cv-creator&bg_color=181824&text_color=10b981&title_color=0891b2&hide_border=true" />
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=verobelo&repo=cv-creator&bg_color=181824&text_color=ffffff&title_color=0891b2&hide_border=true" />
 </a>
 
 ### Connect with me
