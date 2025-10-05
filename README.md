@@ -55,7 +55,7 @@
         <img src="./shadcn.svg" alt="shadcn/ui" title="shadcn/ui" />
       </td>
       <td width="80px" align="center">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" alt="Appwrite" title="Appwrite" />
+        <img src="./appwrite.svg" alt="appwrite" title="Appwrite" />
       </td>
     </tr>
   </tbody>
