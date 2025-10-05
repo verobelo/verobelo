@@ -3,13 +3,10 @@
 ## React Developer | Building User-Centric Applications
 ----------------------------------------------------
 
-- Building accessibility-first, mobile-first applications
-
-- 10 years of customer service -> Better UX choices
-
-- Experience in AI integration into web applications
-
-- Multilingual: Russian • Spanish • English • French
+💻 Building accessibility-first, mobile-first applications\
+🧑‍🤝‍🧑 10 years of customer service -> Better UX choices\
+🤖 Experience in AI integration into web applications\
+🌐 Multilingual: Russian • Spanish • English • French
 
 * 🌍  I'm based in Spain | Open to remote opportunities globally
 * 🖥️  See my portfolio at [veronikacodes.com](http://www.veronikacodes.com)
