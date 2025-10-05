@@ -23,7 +23,7 @@
 ### My Best Repos
 
 <a href="https://github.com/verobelo/dentahub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=verobelo&repo=dentahub&bg-color=181824&text_color=10b981" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=verobelo&repo=dentahub&bg_color=181824&text_color=10b981" />
 </a>
 <a href="https://github.com/verobelo/portfolio-v2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=verobelo&repo=portfolio-v2" />
