@@ -1,9 +1,9 @@
 # Hello there! 👋 My name is Veronika
 
-## I'm a  React Developer, building User-Centric Applications
+## React Developer, building User-Centric Applications
 ----------------------------------------------------
 
-### About me
+### About Me
 
 - 💻 Building accessibility-first, mobile-first applications
 
