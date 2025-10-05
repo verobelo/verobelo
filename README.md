@@ -41,7 +41,7 @@
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/verobelo"><img src="https://github-readme-streak-stats.herokuapp.com/?username=verobelo&stroke=10b981&background=181824&ring=0891b2&fire=0891b2&currStreakNum=10b981&currStreakLabel=0891b2&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" align="center" height=200 /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=verobelo)](https://git.io/streak-stats)
 
 <a href="https://github.com/verobelo">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verobelo&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" align="center" height=200/>
