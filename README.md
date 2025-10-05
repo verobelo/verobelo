@@ -74,7 +74,7 @@
   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=verobelo&repo=cv-creator&bg_color=181824&text_color=ffffff&title_color=0891b2&hide_border=true" />
 </a>
 
-### Connect with me
+### Connect With Me
 
 #### Portfolio: [veronikacodes.com](http://www.veronikacodes.com)
 #### Linkedin: [linkedin.com/veronika-belozerova](https://www.linkedin.com/in/veronika-belozerova/)
