@@ -49,7 +49,7 @@
        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite"/>
       </td>
       <td width="80px" align="center">
-       <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" alt="shadcn" title="shadcn/ui" />
+       <img src="https://svgstack.com/icon/shadcn-logo-3134" alt="shadcn" title="shadcn/ui" />
       </td>
       <td width="80px" align="center">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" />
@@ -87,4 +87,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verobelo&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" align="center" height=200/>
 </a>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=verobelo)
