@@ -24,17 +24,17 @@
        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript"/>
       </td>
       <td width="80px" align="center">
-       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" />
-      </td>
-      <td width="80px" align="center">
        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" />
       </td>
-      <td width="80px" align="center">
+        <td width="80px" align="center">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" />
       </td>
-      <td width="80px" align="center">
+       <td width="80px" align="center">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" />
       </td>
+       <td width="80px" align="center">
+        <img src="./openai.svg" alt="openai" title="openai" />
+      </td>         
     </tr>
   </tbody>
 </table>
@@ -43,6 +43,9 @@
   <tbody>
     <tr>
       <td width="80px" align="center">
+       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" />
+      </td>  
+      <td width="80px" align="center">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" />
       </td>
       <td width="80px" align="center">
@@ -50,9 +53,6 @@
       </td>
       <td width="80px" align="center">
         <img src="./shadcn.svg" alt="shadcn/ui" title="shadcn/ui" />
-      </td>
-      <td width="80px" align="center">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" />
       </td>
       <td width="80px" align="center">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" alt="Appwrite" title="Appwrite" />
