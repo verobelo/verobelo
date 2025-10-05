@@ -42,7 +42,7 @@
 ### My GitHub Stats
 
 <a href="http://www.github.com/verobelo">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=verobelo&stroke=10b981&background=181824&ring=0891b2&fire=0891b2&currStreakNum=10b981&currStreakLabel=0891b2&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" align="center"  height=200/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=verobelo&stroke=10b981&background=181824&ring=0891b2&fire=0891b2&currStreakNum=10b981&currStreakLabel=0891b2&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" align="center" height=200/>
 </a>
 
 <a href="https://github.com/verobelo">
