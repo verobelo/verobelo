@@ -49,10 +49,7 @@
        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite"/>
       </td>
       <td width="80px" align="center">
-<svg width="48" height="48" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="shadcn logo">
-    <rect width="256" height="256" rx="64" fill="none"/>
-    <path fill="currentColor" d="M128 48c-44.183 0-80 35.817-80 80s35.817 80 80 80 80-35.817 80-80h-48a32 32 0 1 1-32-32V48z"/>
-  </svg>
+        <img src="" alt="shadcn/ui" title="shadcn/ui" />
       </td>
       <td width="80px" align="center">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" />
