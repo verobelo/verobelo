@@ -5,15 +5,15 @@
 
 ### About me
 
-💻 Building accessibility-first, mobile-first applications\
+- 💻 Building accessibility-first, mobile-first applications
 
-🧑‍🤝‍🧑 10 years of customer service -> Better UX choices\
+- 🧑‍🤝‍🧑 10 years of customer service -> Better UX choices
 
-🤖 Experience in AI integration into web applications\
+- 🤖 Experience in AI integration into web applications
 
-🌐 Multilingual: Russian • Spanish • English • French\
+- 🌐 Multilingual: Russian • Spanish • English • French
 
-🌍 I'm based in Spain | Open to remote opportunities globally
+- 🌍 I'm based in Spain | Open to remote opportunities globally
 
 ### Tech Stack
 <p align="left">
