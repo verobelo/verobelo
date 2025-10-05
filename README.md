@@ -45,4 +45,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verobelo&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" align="center" height=200/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=verobelo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=verobelo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
