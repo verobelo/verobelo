@@ -49,7 +49,7 @@
        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite"/>
       </td>
       <td width="80px" align="center">
-        <img src="" alt="shadcn/ui" title="shadcn/ui" />
+        <img src="./shadcn.svg" alt="shadcn/ui" title="shadcn/ui" />
       </td>
       <td width="80px" align="center">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" title="Chakra UI" />
