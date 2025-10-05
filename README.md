@@ -50,7 +50,7 @@
       </td>
       <td width="80px" align="center">
      <svg width="48" height="48" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <rect width="256" height="256" rx="64" fill="black"/>
+  <rect width="256" height="256" rx="64" fill="white"/>
   <path fill="white" d="M128 48c-44.183 0-80 35.817-80 80s35.817 80 80 80 80-35.817 80-80h-48a32 32 0 1 1-32-32V48z"/>
 </svg>
       </td>
