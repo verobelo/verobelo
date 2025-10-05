@@ -29,6 +29,6 @@
 
 ### My GitHub Stats
 
-![Veronika's GitHub stats](https://github-readme-stats.vercel.app/api?username=verobelo&show_icons=true&theme=tokyonight)
+![Veronika's GitHub stats](https://github-readme-stats.vercel.app/api?username=verobelo&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verobelo&layout=compact)
