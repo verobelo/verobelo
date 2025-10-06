@@ -83,10 +83,10 @@
 
 ### My GitHub Stats
 <a href="https://github.com/verobelo">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verobelo&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" align="center" height=200/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verobelo&langs_count=10&title_color=db2777&text_color=10b981&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" align="center" height=200/>
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=verobelo&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=verobelo&theme=radical&hide_border=true" alt="GitHub Streak" align="center" height=200 /></a>
 
 
 
