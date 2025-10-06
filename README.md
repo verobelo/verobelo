@@ -82,8 +82,11 @@
 
 
 ### My GitHub Stats
+<a href="https://github.com/verobelo" align="center" height=200>
+[![GitHub Streak](https://streak-stats.demolab.com?user=verobelo&theme=radical&hide_border=true)](https://git.io/streak-stats)
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=verobelo&theme=tokyonight)](https://git.io/streak-stats)
+
 
 <a href="https://github.com/verobelo">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verobelo&langs_count=10&title_color=0891b2&text_color=10b981&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" align="center" height=200/>
